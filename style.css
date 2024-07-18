@@ -27,3 +27,13 @@ body {
     flex-direction: column;
     gap: 40px;
 }
+
+.apresentacao-conteudo-titulo {
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.apresentacao-conteudo-texto {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
